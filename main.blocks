@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="AM8E;o]_|(jFRXfjvOnD" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="6?DqEQ/N~)vix-$W6MlJ"><value name="color"><shadow type="colorindexpicker" id="VHuL$KwE@}B)Rq~LQ:`T"><field name="index">3</field></shadow></value></block></statement></block></xml>
